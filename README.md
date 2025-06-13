@@ -21,3 +21,6 @@ Google Generative AI (google-generativeai Python SDK)
 HTML/CSS (custom WhatsApp-style design)
 
 Bootstrap (optional, can be integrated)
+
+To access the API Key:
+Create a .env file where GOOGLE_API_KEY=your_real_api_key_here
